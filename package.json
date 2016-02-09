@@ -1,0 +1,16 @@
+{
+  "name": "reddit-scrub",
+  "version": "1.0.0",
+  "description": "scrub a dub",
+  "main": "scrub.js",
+  "dependencies": {
+    "async": "^1.5.2",
+    "reddit-oauth": "^1.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Myles Borins",
+  "license": "ISC"
+}
